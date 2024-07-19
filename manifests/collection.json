@@ -11,5 +11,11 @@
       "en" : [ "Class of 1959 Freshmen Trip, Mount Moosilauke" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/original_etchings.json",
+    "label" : {
+      "en" : [ "Original Etchings by American Artists" ]
+    },
+    "type" : "Manifest"
   } ]
 }
