@@ -1,0 +1,15 @@
+{
+  "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in elshand12/Dartmouth-IIIF-sample-manifests project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/1959-rugby_manifest.json",
+    "label" : {
+      "en" : [ "Class of 1959 Freshmen Trip, Mount Moosilauke" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
