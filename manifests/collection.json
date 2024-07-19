@@ -23,5 +23,11 @@
       "en" : [ "Book of Hours." ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/brainard-diary.json",
+    "label" : {
+      "en" : [ "David Brainard Diary" ]
+    },
+    "type" : "Manifest"
   } ]
 }
