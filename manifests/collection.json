@@ -17,5 +17,11 @@
       "en" : [ "Original Etchings by American Artists" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/boh_002253.json",
+    "label" : {
+      "en" : [ "Book of Hours." ]
+    },
+    "type" : "Manifest"
   } ]
 }
