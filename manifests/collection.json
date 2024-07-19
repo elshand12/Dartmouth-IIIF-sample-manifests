@@ -29,5 +29,11 @@
       "en" : [ "David Brainard Diary" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/dochu_hizakurige.json",
+    "label" : {
+      "ja" : [ "Dōchū Hizakurige" ]
+    },
+    "type" : "Manifest"
   } ]
 }
