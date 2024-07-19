@@ -1,0 +1,125 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/1959-rugby_manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Class of 1959 Freshmen Trip, Mount Moosilauke" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Repository" ]
+    },
+    "value" : {
+      "en" : [ "Rauner Special Collections Library" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Collection" ]
+    },
+    "value" : {
+      "en" : [ "DA-223: Dartmouth College Films" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Call Number" ]
+    },
+    "value" : {
+      "en" : [ "DA-223, Box 5159, Folder MP1553" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Author/Creator" ]
+    },
+    "value" : {
+      "en" : [ "Dartmouth College Films, film producer" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "1959" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Extent" ]
+    },
+    "value" : {
+      "en" : [ "Format: 16 mm.; Sound/Color: silent,b&w; Length: 200 ft." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Language" ]
+    },
+    "value" : {
+      "en" : [ "n/a" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Digital Collection" ]
+    },
+    "value" : {
+      "en" : [ "Dartmouth College Films" ]
+    }
+  } ],
+  "homepage" : {
+    "id" : "https://www.library.dartmouth.edu/digital/digital-collections/dartmouth-college-films",
+    "type" : "Text",
+    "format" : "text/html",
+    "label" : {
+      "en" : [ "Dartmouth College Films, Digital by Dartmouth Libraries" ]
+    }
+  },
+  "summary" : {
+    "en" : [ "Freshman trip. Generally pretty jerky. Some good mugshots and group pictures, good scenery of the entire mountain range from the top of Moosilauke, shots of the Moosilauke lodge." ]
+  },
+  "provider" : {
+    "id" : "https://www.library.dartmouth.edu/digital/about",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Digital by Dartmouth Libraries" ]
+    },
+    "homepage" : [ {
+      "id" : "https://www.library.dartmouth.edu/digital/digital-collections",
+      "type" : "Text",
+      "label" : {
+        "en" : [ "Digital by Dartmouth Libraries Homepage" ]
+      },
+      "format" : "text/html"
+    } ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "Copyright © 2014 Trustees of Dartmouth College." ]
+    }
+  },
+  "rights" : "https://creativecommons.org/licenses/by/4.0/",
+  "items" : [ {
+    "id" : "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas",
+    "type" : "Canvas",
+    "height" : 540,
+    "width" : 750,
+    "duration" : 351,
+    "items" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas/page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas/page/annotation",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "http://localhost:5500/1959-Rugby.mov",
+          "type" : "Video",
+          "height" : 3540,
+          "width" : 750,
+          "duration" : 351,
+          "format" : "video/mp4"
+        },
+        "target" : "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas"
+      } ]
+    } ]
+  } ]
+}
