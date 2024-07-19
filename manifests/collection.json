@@ -35,5 +35,11 @@
       "ja" : [ "Dōchū Hizakurige" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/rainone-comic_15_feast_1865.json",
+    "label" : {
+      "en" : [ "Merryman's Monthly Nov.–Dec. 1866" ]
+    },
+    "type" : "Manifest"
   } ]
 }
