@@ -144,15 +144,6 @@
       "format" : "text/html"
     } ]
   },
-  "requiredStatement" : {
-    "label" : {
-      "en" : [ "Attribution" ]
-    },
-    "value" : {
-      "en" : [ "Copyright © 2024 Trustees of Dartmouth College." ]
-    }
-  },
-  "rights" : "https://creativecommons.org/licenses/by/4.0/",
   "rendering" : [ {
     "id" : "",
     "type" : "Text",
@@ -1261,5 +1252,4 @@
       ]
     }
   ]
-}
 }
