@@ -97,6 +97,7 @@
     }
   },
   "rights" : "https://creativecommons.org/licenses/by/4.0/",
+  "navDate": "1955-01-01T00:00:00.000Z",
   "items" : [ {
     "id" : "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas",
     "type" : "Canvas",
