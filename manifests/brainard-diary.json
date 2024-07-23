@@ -7,6 +7,10 @@
         "David Brainard Diary"
       ]
     },
+    "start": {
+    "id": "/config/manifest-templates/blank.json/canvas/8e202821-bb63-4212-a692-6170739a56b3",
+    "type": "Canvas"
+  },
     "metadata": [
       {
         "label": {
