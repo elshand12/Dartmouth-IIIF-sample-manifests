@@ -59,14 +59,14 @@
       "en" : [ "Digital Collection" ]
     },
     "value" : {
-      "en" : [ "Original Etchings by American Artists" ]
+      "en" : [ "Original Etchings by American Artists: A digital edition" ]
     }
   } ],
   "summary" : {
     "en" : [ "Original Etchings by American Artists was published at a time in American history when the country was trying to establish an artistic identity and visual presence that could rival Europe’s." ]
   },
   "homepage" : {
-    "id" : "https://www.library.dartmouth.edu/digital/digital-collections/original-etchings-american-artists",
+    "id" : "https://collections.dartmouth.edu/teitexts/american-etchings/diplomatic/AmericanEtchings-diplomatic.html",
     "type" : "Text",
     "format" : "text/html",
     "label" : {
