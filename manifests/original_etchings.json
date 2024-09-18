@@ -96,6 +96,23 @@
       "en" : [ "Courtesy of Digital by Dartmouth Libraries" ]
     }
   },
+  "rendering" : [
+    {
+    "id" : "https://collections.dartmouth.edu/xcdas-derivative/american-etchings/pdf/american-etchings-pdf-complete.pdf",
+    "type" : "Image",
+    "format" : "image/pdf",
+    "label" : {
+      "en" : [ "Download as PDF" ]
+    }
+          {
+    "id" : "https://www.library.dartmouth.edu/digital/digital-collections/original-etchings-american-artists",
+    "type" : "Image",
+    "format" : "text/html",
+    "label" : {
+      "en" : [ "View image homepage" ]
+    }
+  }
+],
   "rights" : "https://creativecommons.org/licenses/by/4.0/",
   "navDate": "1883-01-01T00:00:00.000Z",
   "thumbnail" : [ {
