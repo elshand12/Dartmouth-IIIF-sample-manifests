@@ -1,0 +1,552 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/zjzky52rwlp-m1au3n9c",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Badges, Bracelets, Scarf Pins, Sleeve Buttons, Lockets, Charms, Fobs"
+    ]
+  },
+  "summary": {
+    "en": [
+      "A custom jewelry design book from the firm of Jaques and Marcus, later Marcus and Co., ca. 1890 - ca. 1910, containing pen and ink drawings with wash and pigment coloration. Each design was custom-made for clients and the designs were later pasted into the volumes."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "en": [
+          "Rauner Special Collections Library"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Call Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "MS-674, Box 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "A custom jewelry design book from the firm of Jaques and Marcus, later Marcus and Co., ca. 1890 - ca. 1910, containing pen and ink drawings with wash and pigment coloration. Each design was custom-made for clients and the designs were later pasted into the volumes."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Author/Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Jaques and Marcus (Firm), creator"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publication/Creation Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1890-1910"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Extent (original production)"
+        ]
+      },
+      "value": {
+        "en": [
+          "50 unnumbered pages 20pl. ; 37 cm, in box 49 x 39 x 5 cm."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language"
+        ]
+      },
+      "value": {
+        "en": [
+          "English"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "No Copyright — United States"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Digital Collection"
+        ]
+      },
+      "value": {
+        "en": [
+          "Original Etchings by American Artists: A digital edition"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Extent (digital object)"
+        ]
+      },
+      "value": {
+        "en": [
+          "1 online resource (168 images)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Extent of digitization"
+        ]
+      },
+      "value": {
+        "en": [
+          "Fully digitized"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Digital Publication"
+        ]
+      },
+      "value": {
+        "en": [
+          "Hanover, NH : Dartmouth College Libraries, 2017"
+        ]
+      }
+    }
+  ],
+  "homepage" : {
+    "id" : "https://doi.org/10.1349/ddlp.1961",
+    "type" : "Text",
+    "format" : "text/html",
+    "label" : {
+      "en" : [ "Jewelry Design Books of Jaques and Marcus, 1890 to 1910" ]
+    }
+  },
+  "provider" : {
+    "id" : "https://www.library.dartmouth.edu/digital/about",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Digital by Dartmouth Libraries" ]
+    },
+    "homepage" : [ {
+      "id" : "https://www.library.dartmouth.edu/digital/digital-collections",
+      "type" : "Text",
+      "label" : {
+        "en" : [ "Digital by Dartmouth Libraries Homepage" ]
+      },
+      "format" : "text/html"
+    } ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Courtesy of Digital by Dartmouth Libraries"
+      ]
+    }
+  },
+  "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-cover-front-recto.tif/full/full/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 3000,
+      "width": 2177
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kf09w6kfx1m-m1au3rl9",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2177,
+      "label": {
+        "en": [
+          "Front cover [recto]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-cover-front-recto.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2177,
+          "requiredStatement": {
+            "label": {
+              "en": [
+                "Attribution"
+              ]
+            },
+            "value": {
+              "en": [
+                "Courtesy of Digital by Dartmouth Libraries"
+              ]
+            }
+          },
+          "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
+          "language": [
+            "English"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kf09w6kfx1m-m1au3rl9/annotation-page/wycta61kab-m1au3rl9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kf09w6kfx1m-m1au3rl9/annotation-page/wycta61kab-m1au3rl9/annotation/378wazwux1w-m1av1eny",
+              "type": "Annotation",
+              "thumbnail": [
+                {
+                  "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-cover-front-recto.tif/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3000,
+                  "width": 2177,
+                  "requiredStatement": {
+                    "label": {
+                      "en": [
+                        "Attribution"
+                      ]
+                    },
+                    "value": {
+                      "en": [
+                        "Courtesy of Digital by Dartmouth Libraries"
+                      ]
+                    }
+                  },
+                  "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
+                  "language": [
+                    "English"
+                  ]
+                }
+              ],
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kf09w6kfx1m-m1au3rl9",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-cover-front-recto.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2177,
+                "requiredStatement": {
+                  "label": {
+                    "en": [
+                      "Attribution"
+                    ]
+                  },
+                  "value": {
+                    "en": [
+                      "Courtesy of Digital by Dartmouth Libraries"
+                    ]
+                  }
+                },
+                "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
+                "language": [
+                  "English"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/ie2f5rqbs4d-m1av26dd",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2154,
+      "label": {
+        "en": [
+          "Front cover [verso]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-cover-front-verso.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2154
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/ie2f5rqbs4d-m1av26dd/annotation-page/ei4hwtb6ao8-m1av26dd",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/annotation/fdz9fx53nnq-m1av25je",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/ie2f5rqbs4d-m1av26dd",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-cover-front-verso.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2154
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/6sk25627awu-m1av4jma",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2154,
+      "label": {
+        "en": [
+          "[1v]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-006.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2154
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/6sk25627awu-m1av4jma/annotation-page/fo4f554rk7f-m1av4jma",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/annotation/vn3c4o4d1u-m1av4it5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/6sk25627awu-m1av4jma",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-006.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2154
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/o0bqcfndc8-m1av4wkb",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2202,
+      "label": {
+        "en": [
+          "[2r]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-007.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2202
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/o0bqcfndc8-m1av4wkb/annotation-page/1tk8xvnxat4j-m1av4wkb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/annotation/6i0nkrno94m-m1av4vyh",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/o0bqcfndc8-m1av4wkb",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-007.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2202
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/5240uvqr6c5-m1av5a75",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2145,
+      "label": {
+        "en": [
+          "[2v]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-008.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2145
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/5240uvqr6c5-m1av5a75/annotation-page/or5b0k5ollc-m1av5a75",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/annotation/ksibdr4n8pq-m1av59jt",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/5240uvqr6c5-m1av5a75",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-008.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2145
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/wxudi2l1eam-m1av5n8p",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2177,
+      "label": {
+        "en": [
+          "[3r]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-009.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2177
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/wxudi2l1eam-m1av5n8p/annotation-page/x0beu6724w-m1av5n8p",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/annotation/7dmtdggi5lo-m1av5mma",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/wxudi2l1eam-m1av5n8p",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-009.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2177
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kby6r94kh1-m1av62vz",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2153,
+      "label": {
+        "en": [
+          "[3v]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-010.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 2153
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kby6r94kh1-m1av62vz/annotation-page/ugchb7sauer-m1av62vz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/zjzky52rwlp-m1au3n9c/annotation/j72d4rddo5s-m1av629t",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/zjzky52rwlp-m1au3n9c/canvas/kby6r94kh1-m1av62vz",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/marcus-drawings/tiff_pyr/marcus-album1-010.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2153
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
