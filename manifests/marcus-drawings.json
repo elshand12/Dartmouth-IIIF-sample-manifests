@@ -167,20 +167,11 @@
     }
   },
   "provider" : {
-    "id" : "https://www.library.dartmouth.edu/digital/about",
+    "id" : "https://www.library.dartmouth.edu/digital/digital-collections",
     "type" : "Agent",
     "label" : {
       "en" : [ "Digital by Dartmouth Libraries" ]
     },
-    "homepage" : [ {
-      "id" : "https://www.library.dartmouth.edu/digital/digital-collections",
-      "type" : "Text",
-      "label" : {
-        "en" : [ "Digital by Dartmouth Libraries Homepage" ]
-      },
-      "format" : "text/html"
-    } ]
-  },
   "requiredStatement": {
     "label": {
       "en": [
