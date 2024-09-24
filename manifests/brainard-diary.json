@@ -11,6 +11,11 @@
     "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/o6tzkxg5tqp-m1gox755",
     "type": "Canvas"
   },
+    "summary": {
+      "en": [
+        "David Brainard's Camp Clay diary is a meticulously kept account of the daily happenings at Cape Sabine on the Ellesmere Island coast, where the men of the Lady Franklin Bay Expedition lived as castaways through the long and desperate winter of 1883–1884."
+      ]
+    },
     "metadata": [
       {
         "label": {
@@ -48,6 +53,18 @@
           ]
         }
       },
+            {
+        "label": {
+          "en": [
+            "Description"
+          ]
+        },
+        "value": {
+          "en": [
+            "David Brainard's Camp Clay diary is a meticulously kept account of the daily happenings at Cape Sabine on the Ellesmere Island coast, where the men of the Lady Franklin Bay Expedition lived as castaways through the long and desperate winter of 1883–1884."
+          ]
+        }
+      },
       {
         "label": {
           "en": [
@@ -63,7 +80,19 @@
       {
         "label": {
           "en": [
-            "Extent"
+            "Publication/Creation Date"
+          ]
+        },
+        "value": {
+          "en": [
+            "1 March – 21 June 1884"
+          ]
+        }
+      },
+      {
+        "label": {
+          "en": [
+            "Extent (original production)"
           ]
         },
         "value": {
@@ -85,17 +114,17 @@
         }
       },
       {
-        "label": {
-          "en": [
-            "Date"
-          ]
-        },
-        "value": {
-          "en": [
-            "1 March – 21 June 1884"
-          ]
-        }
+      "label": {
+        "en": [
+          "Rights"
+        ]
       },
+      "value": {
+        "en": [
+          "No Copyright — United States"
+        ]
+      }
+    },
       {
         "label": {
           "en": [
@@ -107,13 +136,59 @@
             "David Brainard Diary"
           ]
         }
+      },
+      {
+      "label": {
+        "en": [
+          "Extent (digital object)"
+        ]
+      },
+      "value": {
+        "en": [
+          "1 online resource (314 images)"
+        ]
       }
-    ],
-    "summary": {
-      "en": [
-        "David Brainard's Camp Clay diary is a meticulously kept account of the daily happenings at Cape Sabine on the Ellesmere Island coast, where the men of the Lady Franklin Bay Expedition lived as castaways through the long and desperate winter of 1883–1884."
-      ]
     },
+      {
+      "label": {
+        "en": [
+          "Extent of digitization"
+        ]
+      },
+      "value": {
+        "en": [
+          "Fully digitized"
+        ]
+      }
+    },
+      {
+      "label": {
+        "en": [
+          "Digital Publication"
+        ]
+      },
+      "value": {
+        "en": [
+          "Hanover, NH : Dartmouth College Libraries, 2018"
+        ]
+      }
+    }
+    ],
+      "homepage" : {
+    "id" : "https://doi.org/10.1349/ddlp.2551",
+    "type" : "Text",
+    "format" : "text/html",
+    "label" : {
+      "en" : [ "David Brainard Diary" ]
+    }
+  },
+  "provider" : {
+    "id" : "https://www.library.dartmouth.edu/digital/digital-collections",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Digital by Dartmouth Libraries" ]
+    }
+  },
     "requiredStatement": {
       "label": {
         "en": [
@@ -122,37 +197,21 @@
       },
       "value": {
         "en": [
-          "Copyright © 2024 Trustees of Dartmouth College."
+          "Courtesy of Digital by Dartmouth Libraries"
         ]
       }
     },
-    "rights": "https://creativecommons.org/licenses/by/4.0/",
-    "rendering" : [ {
-    "id" : "",
-    "type" : "Text",
-    "format" : "application/pdf",
-    "label" : {
-      "en" : [ "Download as PDF" ]
-    }
-  } ],
+    "rights": "No Copyright — United States",
   "seeAlso" : [ {
-    "id" : "",
+    "id" : "https://collections.dartmouth.edu/teitexts/downloads/brainard-diary/xml/brainard-2-diary.xml",
     "type" : "Dataset",
     "label" : {
-      "en" : [ "MODS metadata" ]
-    },
-    "format" : "text/xml",
-    "profile" : "http://www.loc.gov/mods/v3"
-  }, {
-    "id" : "",
-    "type" : "Dataset",
-    "label" : {
-      "en" : [ "TEI-XML" ]
+      "en" : [ "Download TEX-XML" ]
     },
     "format" : "text/xml",
     "profile" : "https://tei-c.org/"
   } ],
-    "items": [
+   "items": [
     {
       "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/ibvc9ym5m3-m1goo1bu",
       "type": "Canvas",
@@ -163,6 +222,15 @@
           "Front and back cover"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_COVER.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 593
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/ibvc9ym5m3-m1goo1bu/annotation-page/m8fv1g8eht-m1goo1bu",
@@ -195,6 +263,15 @@
           "Front pastedown"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_00A.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1247
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/peybyghewb8-m1goosky/annotation-page/ktl1ke16ih-m1goosky",
@@ -227,6 +304,15 @@
           "[i]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_00B.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1116
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/9bv4rnjb3bm-m1gop3um/annotation-page/olw0rapw4-m1gop3um",
@@ -259,6 +345,15 @@
           "[ii]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_00C.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1324
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/u8uyk90o1d-m1goqosd/annotation-page/9eipr4examw-m1goqosd",
@@ -291,6 +386,15 @@
           "1"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_001.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1244
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z57g5o6affg-m1gor4xx/annotation-page/uad3nwsmx1p-m1gor4xx",
@@ -323,6 +427,15 @@
           "2"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_002.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1291
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/t3eiceub9ok-m1gos4qa/annotation-page/8gr0ame3ouc-m1gos4qa",
@@ -355,6 +468,15 @@
           "3"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_003.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1357
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/aefje7kbxj-m1gosb2o/annotation-page/vreiit2f8k-m1gosb2o",
@@ -387,6 +509,15 @@
           "4"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_004.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1293
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/j7wep0ny9oc-m1goshon/annotation-page/w9d9sb3s6p-m1goshon",
@@ -419,6 +550,15 @@
           "5"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_005.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1247
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pyqafor6nkg-m1gosmzq/annotation-page/1yd9dsxms98-m1gosmzq",
@@ -451,6 +591,15 @@
           "6"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_006.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1267
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/dua5u6ro9qw-m1gosuqz/annotation-page/3rhyfdes504-m1gosuqz",
@@ -483,6 +632,15 @@
           "7"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_007.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1204
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/1hlz9qd33aj-m1gov2tz/annotation-page/z8aocxjqolj-m1gov2tz",
@@ -515,6 +673,15 @@
           "8"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_008.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1271
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pt9f5cqvbn-m1govb16/annotation-page/zry6lgvifl-m1govb16",
@@ -547,6 +714,15 @@
           "9"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_009.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1284
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/df2hwdogz1v-m1govfgf/annotation-page/i12jg93krs-m1govfgf",
@@ -579,6 +755,15 @@
           "10"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_010.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1262
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/hpp4bgcxcth-m1govk2a/annotation-page/cqtvvjg2y0k-m1govk2a",
@@ -611,6 +796,15 @@
           "73"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_073.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1177
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/o6tzkxg5tqp-m1gox755/annotation-page/xflgdy6r8d-m1gox755",
@@ -643,6 +837,15 @@
           "74"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_074.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1228
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/p4t1zj6l488-m1goxeqs/annotation-page/rvrmamuixi-m1goxeqs",
@@ -675,6 +878,15 @@
           "75"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_075.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1189
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/6nq2chrcyhg-m1goxk65/annotation-page/zd9cp31ayrg-m1goxk65",
@@ -707,6 +919,15 @@
           "76"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_076.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1203
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/349i709acw6-m1goxp8e/annotation-page/nptv5cpswy-m1goxp8e",
@@ -739,6 +960,15 @@
           "77"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_077.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1190
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/lpmd1lg688-m1goxt97/annotation-page/yws3md9p47s-m1goxt97",
@@ -771,6 +1001,15 @@
           "78"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_078.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1236
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/szvr4lf3qh8-m1goxyfd/annotation-page/snx9gwbv15-m1goxyfd",
@@ -803,6 +1042,15 @@
           "79"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_079.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1168
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z7ryprc1sm-m1goy383/annotation-page/7j2wwf3jgw7-m1goy383",
@@ -835,6 +1083,15 @@
           "80"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_080.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 3000,
+          "width": 1210
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pvf1aq13z0k-m1goy8hv/annotation-page/lywvsvqpay-m1goy8hv",
