@@ -105,7 +105,7 @@
       },
       "value": {
         "en": [
-          "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/"
+          "No Copyright — United States"
         ]
       }
     },
@@ -117,7 +117,7 @@
       },
       "value": {
         "en": [
-          "Jewelry Design Books of Jaques and Marcus, 1890 to 1910"
+          "Original Etchings by American Artists: A digital edition"
         ]
       }
     },
@@ -171,7 +171,8 @@
     "type" : "Agent",
     "label" : {
       "en" : [ "Digital by Dartmouth Libraries" ]
-    },
+    }
+  },
   "requiredStatement": {
     "label": {
       "en": [
@@ -211,23 +212,7 @@
           "type": "Image",
           "format": "image/jpeg",
           "height": 3000,
-          "width": 2177,
-          "requiredStatement": {
-            "label": {
-              "en": [
-                "Attribution"
-              ]
-            },
-            "value": {
-              "en": [
-                "Courtesy of Digital by Dartmouth Libraries"
-              ]
-            }
-          },
-          "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
-          "language": [
-            "English"
-          ]
+          "width": 2177
         }
       ],
       "items": [
@@ -244,23 +229,7 @@
                   "type": "Image",
                   "format": "image/jpeg",
                   "height": 3000,
-                  "width": 2177,
-                  "requiredStatement": {
-                    "label": {
-                      "en": [
-                        "Attribution"
-                      ]
-                    },
-                    "value": {
-                      "en": [
-                        "Courtesy of Digital by Dartmouth Libraries"
-                      ]
-                    }
-                  },
-                  "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
-                  "language": [
-                    "English"
-                  ]
+                  "width": 2177
                 }
               ],
               "motivation": "painting",
@@ -270,23 +239,7 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3000,
-                "width": 2177,
-                "requiredStatement": {
-                  "label": {
-                    "en": [
-                      "Attribution"
-                    ]
-                  },
-                  "value": {
-                    "en": [
-                      "Courtesy of Digital by Dartmouth Libraries"
-                    ]
-                  }
-                },
-                "rights": "Copyright Undetermined http://rightsstatements.org/page/UND/1.0/",
-                "language": [
-                  "English"
-                ]
+                "width": 2177
               }
             }
           ]
