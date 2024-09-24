@@ -183,7 +183,7 @@
     "type" : "Agent",
     "label" : {
       "en" : [ "Digital by Dartmouth Libraries" ]
-    },
+    }
   },
   "requiredStatement": {
     "label": {
