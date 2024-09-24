@@ -8,7 +8,7 @@
       ]
     },
     "start": {
-    "id": "/config/manifest-templates/blank.json/canvas/8e202821-bb63-4212-a692-6170739a56b3",
+    "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/o6tzkxg5tqp-m1gox755",
     "type": "Canvas"
   },
     "metadata": [
@@ -127,7 +127,6 @@
       }
     },
     "rights": "https://creativecommons.org/licenses/by/4.0/",
-    "navDate": "1884-03-01T05:00:00.000Z",
     "rendering" : [ {
     "id" : "",
     "type" : "Text",
@@ -153,1082 +152,710 @@
     "format" : "text/xml",
     "profile" : "https://tei-c.org/"
   } ],
-    "thumbnail": [
-      {
-        "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_074.jpg",
-        "type": "Image",
-        "format": "image/jpeg",
-        "height": 1000,
-        "width": 409
-      }
-    ],
     "items": [
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/7a90becb-e912-4c81-83f8-741727604dfa",
-        "type": "Canvas",
-        "height": 19661,
-        "width": 3890,
-        "label": {
-          "en": [
-            "Cover"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_COVER.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 198
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/7a90becb-e912-4c81-83f8-741727604dfa/annotation-page/1379712a-55f4-4c78-a8f8-a9632afac077",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/217bb351-9c40-42a9-b806-7d09dff189b8",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/7a90becb-e912-4c81-83f8-741727604dfa",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/2492730e7f357e7412f0d91c26db3ff1e9e8a660a5a0d803a1454b7a82541269/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 19661,
-                  "width": 3890,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/2492730e7f357e7412f0d91c26db3ff1e9e8a660a5a0d803a1454b7a82541269",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3890,
-                      "height": 19661,
-                      "sizes": [
-                        {
-                          "width": 30,
-                          "height": 153
-                        },
-                        {
-                          "width": 60,
-                          "height": 307
-                        },
-                        {
-                          "width": 121,
-                          "height": 614
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64,
-                            128
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/2492730e7f357e7412f0d91c26db3ff1e9e8a660a5a0d803a1454b7a82541269"
-                    }
-                  ]
-                }
-              }
-            ]
-          }
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/ibvc9ym5m3-m1goo1bu",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 593,
+      "label": {
+        "en": [
+          "Front and back cover"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/12bdbc5b-d351-4680-b2a7-b75cf8c360d9",
-        "type": "Canvas",
-        "height": 9393,
-        "width": 3896,
-        "label": {
-          "en": [
-            "Pg. 1"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_001.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 415
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/12bdbc5b-d351-4680-b2a7-b75cf8c360d9/annotation-page/aad767a0-9c56-49b2-a0b8-207d9012935b",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/5a93d4e0-bd63-4fae-99ec-de89b30c7965",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/12bdbc5b-d351-4680-b2a7-b75cf8c360d9",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/c9a233f0a94d2890f4e39e409f4de6489a1065d86923e61ca6aee483c6f91c7e/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9393,
-                  "width": 3896,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/c9a233f0a94d2890f4e39e409f4de6489a1065d86923e61ca6aee483c6f91c7e",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3896,
-                      "height": 9393,
-                      "sizes": [
-                        {
-                          "width": 60,
-                          "height": 146
-                        },
-                        {
-                          "width": 121,
-                          "height": 293
-                        },
-                        {
-                          "width": 243,
-                          "height": 587
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/c9a233f0a94d2890f4e39e409f4de6489a1065d86923e61ca6aee483c6f91c7e"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/ibvc9ym5m3-m1goo1bu/annotation-page/m8fv1g8eht-m1goo1bu",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/1u17zyudcdv-m1goo14l",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/ibvc9ym5m3-m1goo1bu",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_COVER.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 593
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/peybyghewb8-m1goosky",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1247,
+      "label": {
+        "en": [
+          "Front pastedown"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/39c5ac82-845a-4175-adb8-cfe3a4a91eaa",
-        "type": "Canvas",
-        "height": 9514,
-        "width": 4095,
-        "label": {
-          "en": [
-            "Pg. 2"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_002.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 430
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/39c5ac82-845a-4175-adb8-cfe3a4a91eaa/annotation-page/733b8857-743e-4126-a310-fb0c016dc78e",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/7a618422-52a2-41bc-8b6e-1ac36ca58212",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/39c5ac82-845a-4175-adb8-cfe3a4a91eaa",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/4f411a829ae9549ce74dd66d23aafd0461014ddd3b98d31e933406034296f7cb/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9514,
-                  "width": 4095,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/4f411a829ae9549ce74dd66d23aafd0461014ddd3b98d31e933406034296f7cb",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 4095,
-                      "height": 9514,
-                      "sizes": [
-                        {
-                          "width": 63,
-                          "height": 148
-                        },
-                        {
-                          "width": 127,
-                          "height": 297
-                        },
-                        {
-                          "width": 255,
-                          "height": 594
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/4f411a829ae9549ce74dd66d23aafd0461014ddd3b98d31e933406034296f7cb"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/peybyghewb8-m1goosky/annotation-page/ktl1ke16ih-m1goosky",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/9ie3dmttgkc-m1goos7c",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/peybyghewb8-m1goosky",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_00A.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1247
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/9bv4rnjb3bm-m1gop3um",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1116,
+      "label": {
+        "en": [
+          "[i]"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/7641128f-7464-4ddf-b229-04476e17c951",
-        "type": "Canvas",
-        "height": 9713,
-        "width": 4395,
-        "label": {
-          "en": [
-            "Pg. 3"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_003.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 452
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/7641128f-7464-4ddf-b229-04476e17c951/annotation-page/31d9bae8-6f62-4a86-becc-f6ffcdfd8710",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/0f2556ca-2428-4ed6-8ad4-40d30828606b",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/7641128f-7464-4ddf-b229-04476e17c951",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/ca333898dfc27c8796887db7b74415cce4d9168ff4f1f4a9bba114df97bf18d6/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9713,
-                  "width": 4395,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/ca333898dfc27c8796887db7b74415cce4d9168ff4f1f4a9bba114df97bf18d6",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 4395,
-                      "height": 9713,
-                      "sizes": [
-                        {
-                          "width": 68,
-                          "height": 151
-                        },
-                        {
-                          "width": 137,
-                          "height": 303
-                        },
-                        {
-                          "width": 274,
-                          "height": 607
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/ca333898dfc27c8796887db7b74415cce4d9168ff4f1f4a9bba114df97bf18d6"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/9bv4rnjb3bm-m1gop3um/annotation-page/olw0rapw4-m1gop3um",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/s8ubyi4rqg-m1gop3mn",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/9bv4rnjb3bm-m1gop3um",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_00B.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1116
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/u8uyk90o1d-m1goqosd",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1324,
+      "label": {
+        "en": [
+          "[ii]"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/dee31f47-982d-4608-b3d8-e6e94d89d6e8",
-        "type": "Canvas",
-        "height": 9493,
-        "width": 4090,
-        "label": {
-          "en": [
-            "Pg. 4"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_004.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 431
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/dee31f47-982d-4608-b3d8-e6e94d89d6e8/annotation-page/dea0d1e9-6bc6-4ca5-9791-870698e3e948",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/9ac90fce-d300-4b1e-9550-9b9426a9f79b",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/dee31f47-982d-4608-b3d8-e6e94d89d6e8",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/28b9f1f0308ebdecf565d9c30e4872c5efae124b09a14fafc46c71cc1f154acb/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9493,
-                  "width": 4090,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/28b9f1f0308ebdecf565d9c30e4872c5efae124b09a14fafc46c71cc1f154acb",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 4090,
-                      "height": 9493,
-                      "sizes": [
-                        {
-                          "width": 63,
-                          "height": 148
-                        },
-                        {
-                          "width": 127,
-                          "height": 296
-                        },
-                        {
-                          "width": 255,
-                          "height": 593
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/28b9f1f0308ebdecf565d9c30e4872c5efae124b09a14fafc46c71cc1f154acb"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/u8uyk90o1d-m1goqosd/annotation-page/9eipr4examw-m1goqosd",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/6shl1kdw1vo-m1goqoin",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/u8uyk90o1d-m1goqosd",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_00C.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1324
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z57g5o6affg-m1gor4xx",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1244,
+      "label": {
+        "en": [
+          "1"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/88818df6-263b-445a-a00f-cb6ebae79770",
-        "type": "Canvas",
-        "height": 512,
-        "width": 512,
-        "label": {
-          "en": [
-            "Sample Dartmouth-hosted image"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/iiif/mss235-voyageUlanah/tiff_pyr/mss235-voyageUlanah-001.tif/4096,2560,512,512/512,/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 512,
-            "width": 512
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/88818df6-263b-445a-a00f-cb6ebae79770/annotation-page/b8c92531-6e93-4f37-ae8a-48af9ca5ed85",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/1ed1c3c0-f54e-4731-a968-a43c02379504",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/88818df6-263b-445a-a00f-cb6ebae79770",
-                "body": {
-                  "id": "https://collections.dartmouth.edu/content/deliver/iiif/mss235-voyageUlanah/tiff_pyr/mss235-voyageUlanah-001.tif/4096,2560,512,512/512,/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 512,
-                  "width": 512
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z57g5o6affg-m1gor4xx/annotation-page/uad3nwsmx1p-m1gor4xx",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z57g5o6affg-m1gor4xx/annotation-page/uad3nwsmx1p-m1gor4xx/annotation/yr3xrgmzb6-m1gorycc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z57g5o6affg-m1gor4xx",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_001.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1244
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/t3eiceub9ok-m1gos4qa",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1291,
+      "label": {
+        "en": [
+          "2"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/8e202821-bb63-4212-a692-6170739a56b3",
-        "type": "Canvas",
-        "height": 9556,
-        "width": 3911,
-        "label": {
-          "en": [
-            "Pg. 74"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_074.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 409
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/8e202821-bb63-4212-a692-6170739a56b3/annotation-page/37fe3ced-6e47-4689-8ef8-92513487e487",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/92a38c72-c927-443e-9a3d-39a37c77f5c2",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/8e202821-bb63-4212-a692-6170739a56b3",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/83d92da54e6728b995b7091895240ed3ca77d5293cbc5b1edfcdae17c8eac0f2/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9556,
-                  "width": 3911,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/83d92da54e6728b995b7091895240ed3ca77d5293cbc5b1edfcdae17c8eac0f2",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3911,
-                      "height": 9556,
-                      "sizes": [
-                        {
-                          "width": 61,
-                          "height": 149
-                        },
-                        {
-                          "width": 122,
-                          "height": 298
-                        },
-                        {
-                          "width": 244,
-                          "height": 597
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/83d92da54e6728b995b7091895240ed3ca77d5293cbc5b1edfcdae17c8eac0f2"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/t3eiceub9ok-m1gos4qa/annotation-page/8gr0ame3ouc-m1gos4qa",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/eidfiikz0o7-m1gos4hj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/t3eiceub9ok-m1gos4qa",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_002.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1291
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/aefje7kbxj-m1gosb2o",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1357,
+      "label": {
+        "en": [
+          "3"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/2855a2ac-558f-4a55-81fa-ba35e0850b92",
-        "type": "Canvas",
-        "height": 9673,
-        "width": 3834,
-        "label": {
-          "en": [
-            "Pg. 75"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_075.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 396
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/2855a2ac-558f-4a55-81fa-ba35e0850b92/annotation-page/3b1b1a85-2369-43da-9cfe-6a039e857ef1",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/d7c99ad0-e8f0-44a4-aab9-c04fa561d4e6",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/2855a2ac-558f-4a55-81fa-ba35e0850b92",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/9ef72fc61521296957973a28922ded4c08abe3ee362bb91da5f79ed6ba44c529/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9673,
-                  "width": 3834,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/9ef72fc61521296957973a28922ded4c08abe3ee362bb91da5f79ed6ba44c529",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3834,
-                      "height": 9673,
-                      "sizes": [
-                        {
-                          "width": 59,
-                          "height": 151
-                        },
-                        {
-                          "width": 119,
-                          "height": 302
-                        },
-                        {
-                          "width": 239,
-                          "height": 604
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/9ef72fc61521296957973a28922ded4c08abe3ee362bb91da5f79ed6ba44c529"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/aefje7kbxj-m1gosb2o/annotation-page/vreiit2f8k-m1gosb2o",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/ak0snwpxhbu-m1gosas7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/aefje7kbxj-m1gosb2o",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_003.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1357
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/j7wep0ny9oc-m1goshon",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1293,
+      "label": {
+        "en": [
+          "4"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/86ffe638-b0e3-42ed-8eac-9da540565518",
-        "type": "Canvas",
-        "height": 9656,
-        "width": 3872,
-        "label": {
-          "en": [
-            "Pg. 76"
-          ]
-        },
-        "summary": {
-          "en": [
-            ""
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_076.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 401
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/86ffe638-b0e3-42ed-8eac-9da540565518/annotation-page/bc90d3f3-06b9-4314-810a-6c2c5dca65ae",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/345968e3-b6fb-42ab-84b9-58c61d60ab27",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/86ffe638-b0e3-42ed-8eac-9da540565518",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/8e0704311bbb7d822762c38749858fa4b060ca8c5d9e23801f173ebc0e01eb1a/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9656,
-                  "width": 3872,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/8e0704311bbb7d822762c38749858fa4b060ca8c5d9e23801f173ebc0e01eb1a",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3872,
-                      "height": 9656,
-                      "sizes": [
-                        {
-                          "width": 60,
-                          "height": 150
-                        },
-                        {
-                          "width": 121,
-                          "height": 301
-                        },
-                        {
-                          "width": 242,
-                          "height": 603
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/8e0704311bbb7d822762c38749858fa4b060ca8c5d9e23801f173ebc0e01eb1a"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/j7wep0ny9oc-m1goshon/annotation-page/w9d9sb3s6p-m1goshon",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/jhxi28mjv1-m1goshfk",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/j7wep0ny9oc-m1goshon",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_004.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1293
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pyqafor6nkg-m1gosmzq",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1247,
+      "label": {
+        "en": [
+          "5"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/c94982ed-019c-4300-8824-ef24aab183ab",
-        "type": "Canvas",
-        "height": 9596,
-        "width": 3807,
-        "label": {
-          "en": [
-            "Pg. 77"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_077.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 397
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/c94982ed-019c-4300-8824-ef24aab183ab/annotation-page/e3a68387-719a-4d7e-85f7-ec799dcfbfc7",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/22dcfbe8-7e9f-4edd-b3af-91a83bd35923",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/c94982ed-019c-4300-8824-ef24aab183ab",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/e211bc94cb5789f46d7c630eb2ac0d6f6cc376fd0b3999332f4e02a42bef002e/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9596,
-                  "width": 3807,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/e211bc94cb5789f46d7c630eb2ac0d6f6cc376fd0b3999332f4e02a42bef002e",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3807,
-                      "height": 9596,
-                      "sizes": [
-                        {
-                          "width": 59,
-                          "height": 149
-                        },
-                        {
-                          "width": 118,
-                          "height": 299
-                        },
-                        {
-                          "width": 237,
-                          "height": 599
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/e211bc94cb5789f46d7c630eb2ac0d6f6cc376fd0b3999332f4e02a42bef002e"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pyqafor6nkg-m1gosmzq/annotation-page/1yd9dsxms98-m1gosmzq",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/66o00lc1vu4-m1gosmqt",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pyqafor6nkg-m1gosmzq",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_005.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1247
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/dua5u6ro9qw-m1gosuqz",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1267,
+      "label": {
+        "en": [
+          "6"
         ]
       },
-      {
-        "id": "/config/manifest-templates/blank.json/canvas/3709b8bd-7fc1-4ee3-9719-bdd66a90711e",
-        "type": "Canvas",
-        "height": 9535,
-        "width": 3928,
-        "label": {
-          "en": [
-            "Pg. 78"
-          ]
-        },
-        "thumbnail": [
-          {
-            "id": "https://collections.dartmouth.edu/content/deliver/inline/brainard-diary/jpeg-1k/Stem189_1_6_078.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 1000,
-            "width": 412
-          }
-        ],
-        "items": [
-          {
-            "id": "/config/manifest-templates/blank.json/canvas/3709b8bd-7fc1-4ee3-9719-bdd66a90711e/annotation-page/4ef0ef3a-b429-4eed-bed1-3ca972b0eaeb",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "/config/manifest-templates/blank.json/annotation/8f465c6c-4c0d-4e24-9516-3c408412cea7",
-                "type": "Annotation",
-                "motivation": "painting",
-                "target": "/config/manifest-templates/blank.json/canvas/3709b8bd-7fc1-4ee3-9719-bdd66a90711e",
-                "body": {
-                  "id": "https://free.iiifhosting.com/iiif/625c21fb2017bace4551af326461909026045e975de525de804af449d1e46d5d/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "height": 9535,
-                  "width": 3928,
-                  "service": [
-                    {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://free.iiifhosting.com/iiif/625c21fb2017bace4551af326461909026045e975de525de804af449d1e46d5d",
-                      "protocol": "http://iiif.io/api/image",
-                      "width": 3928,
-                      "height": 9535,
-                      "sizes": [
-                        {
-                          "width": 61,
-                          "height": 148
-                        },
-                        {
-                          "width": 122,
-                          "height": 297
-                        },
-                        {
-                          "width": 245,
-                          "height": 595
-                        }
-                      ],
-                      "tiles": [
-                        {
-                          "width": 256,
-                          "height": 256,
-                          "scaleFactors": [
-                            1,
-                            2,
-                            4,
-                            8,
-                            16,
-                            32,
-                            64
-                          ]
-                        }
-                      ],
-                      "profile": [
-                        "http://iiif.io/api/image/2/level1.json",
-                        {
-                          "formats": [
-                            "jpg"
-                          ],
-                          "qualities": [
-                            "native",
-                            "color",
-                            "gray"
-                          ],
-                          "supports": [
-                            "regionByPct",
-                            "regionSquare",
-                            "sizeByForcedWh",
-                            "sizeByWh",
-                            "sizeAboveFull",
-                            "rotationBy90s",
-                            "mirroring"
-                          ]
-                        }
-                      ],
-                      "id": "https://free.iiifhosting.com/iiif/625c21fb2017bace4551af326461909026045e975de525de804af449d1e46d5d"
-                    }
-                  ]
-                }
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/dua5u6ro9qw-m1gosuqz/annotation-page/3rhyfdes504-m1gosuqz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/nwp5n09wveq-m1gosuhb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/dua5u6ro9qw-m1gosuqz",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_006.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1267
               }
-            ]
-          }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/1hlz9qd33aj-m1gov2tz",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1204,
+      "label": {
+        "en": [
+          "7"
         ]
-      }
-    ]
-  }
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/1hlz9qd33aj-m1gov2tz/annotation-page/z8aocxjqolj-m1gov2tz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/phwqdag4zl-m1gov2k0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/1hlz9qd33aj-m1gov2tz",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_007.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1204
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pt9f5cqvbn-m1govb16",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1271,
+      "label": {
+        "en": [
+          "8"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pt9f5cqvbn-m1govb16/annotation-page/zry6lgvifl-m1govb16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/lepccgqyzq-m1govaqp",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pt9f5cqvbn-m1govb16",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_008.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1271
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/df2hwdogz1v-m1govfgf",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1284,
+      "label": {
+        "en": [
+          "9"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/df2hwdogz1v-m1govfgf/annotation-page/i12jg93krs-m1govfgf",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/oytoemqprm-m1govf65",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/df2hwdogz1v-m1govfgf",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_009.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1284
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/hpp4bgcxcth-m1govk2a",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1262,
+      "label": {
+        "en": [
+          "10"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/hpp4bgcxcth-m1govk2a/annotation-page/cqtvvjg2y0k-m1govk2a",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/tsgreykh79b-m1govjsg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/hpp4bgcxcth-m1govk2a",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_010.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1262
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/o6tzkxg5tqp-m1gox755",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1177,
+      "label": {
+        "en": [
+          "73"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/o6tzkxg5tqp-m1gox755/annotation-page/xflgdy6r8d-m1gox755",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/18496ldwl29-m1gox6xh",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/o6tzkxg5tqp-m1gox755",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_073.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1177
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/p4t1zj6l488-m1goxeqs",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1228,
+      "label": {
+        "en": [
+          "74"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/p4t1zj6l488-m1goxeqs/annotation-page/rvrmamuixi-m1goxeqs",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/846arc3vf35-m1goxecj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/p4t1zj6l488-m1goxeqs",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_074.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1228
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/6nq2chrcyhg-m1goxk65",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1189,
+      "label": {
+        "en": [
+          "75"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/6nq2chrcyhg-m1goxk65/annotation-page/zd9cp31ayrg-m1goxk65",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/herz7jluuuo-m1goxjwa",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/6nq2chrcyhg-m1goxk65",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_075.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1189
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/349i709acw6-m1goxp8e",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1203,
+      "label": {
+        "en": [
+          "76"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/349i709acw6-m1goxp8e/annotation-page/nptv5cpswy-m1goxp8e",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/u456pczrns8-m1goxoz6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/349i709acw6-m1goxp8e",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_076.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1203
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/lpmd1lg688-m1goxt97",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1190,
+      "label": {
+        "en": [
+          "77"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/lpmd1lg688-m1goxt97/annotation-page/yws3md9p47s-m1goxt97",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/v572ewjea5c-m1goxt14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/lpmd1lg688-m1goxt97",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_077.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1190
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/szvr4lf3qh8-m1goxyfd",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1236,
+      "label": {
+        "en": [
+          "78"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/szvr4lf3qh8-m1goxyfd/annotation-page/snx9gwbv15-m1goxyfd",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/el2ljslefxt-m1goxy04",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/szvr4lf3qh8-m1goxyfd",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_078.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1236
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z7ryprc1sm-m1goy383",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1168,
+      "label": {
+        "en": [
+          "79"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z7ryprc1sm-m1goy383/annotation-page/7j2wwf3jgw7-m1goy383",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/jjpy3facxg-m1goy2zl",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/z7ryprc1sm-m1goy383",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_079.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1168
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pvf1aq13z0k-m1goy8hv",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 1210,
+      "label": {
+        "en": [
+          "80"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pvf1aq13z0k-m1goy8hv/annotation-page/lywvsvqpay-m1goy8hv",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jpjmh3zpxv-m1gohm0o/annotation/nvz3law57mg-m1goy888",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jpjmh3zpxv-m1gohm0o/canvas/pvf1aq13z0k-m1goy8hv",
+              "body": {
+                "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_080.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1210
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
