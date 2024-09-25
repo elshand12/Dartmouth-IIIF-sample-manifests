@@ -175,7 +175,7 @@
       "width": 1224,
       "label": {
         "en": [
-          "Front cover (recto)"
+          "Front cover"
         ]
       },
       "thumbnail": [
@@ -216,9 +216,18 @@
       "width": 1224,
       "label": {
         "en": [
-          ""
+          "[1]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-002.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 843,
+          "width": 1224
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/vqgjx6ptyvj-m1gntqe5/annotation-page/4j2lt9u2p7a-m1gntqe5",
@@ -248,9 +257,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[2]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-003.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 828,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/i3mfuef57z-m1gnw9or/annotation-page/ghthb42e5ac-m1gnw9or",
@@ -280,9 +298,18 @@
       "width": 1260,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[3]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-004.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 829,
+          "width": 1260
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/y564pie5g4-m1gnwr2j/annotation-page/qqvtxwq1x0j-m1gnwr2j",
@@ -312,9 +339,18 @@
       "width": 1260,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[4]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-005.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 840,
+          "width": 1260
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/rqms7ldj95d-m1gnwzey/annotation-page/90vm6mmhk3-m1gnwzey",
@@ -344,9 +380,18 @@
       "width": 1260,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[5]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-006.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 834,
+          "width": 1260
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/fn7u1nl44ce-m1gnx4ph/annotation-page/ibulx3z7s5-m1gnx4ph",
@@ -376,9 +421,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[6]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-007.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 824,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/g0t509diwt-m1gnx9yn/annotation-page/hhotmzkbr5q-m1gnx9yn",
@@ -408,9 +462,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[7]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-008.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 826,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/xa7enuf97m-m1gnxevw/annotation-page/3p4qzb82e55-m1gnxevw",
@@ -440,9 +503,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[8]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-009.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 825,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/f9qltx1dv6b-m1gnxka5/annotation-page/2e9swzpgje-m1gnxka5",
@@ -472,9 +544,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[9]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-010.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 828,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/5hm3fwsibp9-m1gnxpnh/annotation-page/inxv2foskcb-m1gnxpnh",
@@ -504,9 +585,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[10]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-011.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 827,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/l2lb1luivwl-m1gnxv11/annotation-page/xj1f8odlch8-m1gnxv11",
@@ -536,9 +626,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[11]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-012.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 825,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/scwd17lruh-m1gnxz80/annotation-page/7fbxfav588v-m1gnxz80",
@@ -568,9 +667,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[12]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-013.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 828,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/non62htohw-m1gny55h/annotation-page/r7hqtei0vw-m1gny55h",
@@ -600,9 +708,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[13]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-014.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 826,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/75nobzwb3pn-m1gny9xq/annotation-page/9uswacyaiw8-m1gny9xq",
@@ -632,9 +749,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[14]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-015.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 824,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/rd9173h1u8s-m1gnyequ/annotation-page/sxoepya64fb-m1gnyequ",
@@ -664,9 +790,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[15]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-016.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 826,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/fas0bzwurns-m1gnykcf/annotation-page/71ycrvar8re-m1gnykcf",
@@ -696,9 +831,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[16]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-017.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 835,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/rj9pad8sqoh-m1gnyqhf/annotation-page/xqzdpp0f7fj-m1gnyqhf",
@@ -728,9 +872,18 @@
       "width": 1260,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[17]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-018.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 829,
+          "width": 1260
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/0b2ufunnrmea-m1gnyvie/annotation-page/hc6uok8jchq-m1gnyvie",
@@ -760,9 +913,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[18]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-019.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 824,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/3kvdk2ziid3-m1gnz2dn/annotation-page/ldprsjpbat-m1gnz2dn",
@@ -792,9 +954,18 @@
       "width": 1242,
       "label": {
         "en": [
-          "Untitled canvas"
+          "[19]"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://collections.dartmouth.edu/xcdas-derivative/ocm19836522/large/ocm19836522-020.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 825,
+          "width": 1242
+        }
+      ],
       "items": [
         {
           "id": "https://example.org/1e7cuf95i32-m1gmdlj9/canvas/h8t0qleqvfs-m1gnz6ld/annotation-page/u7mo5j74gts-m1gnz6ld",
