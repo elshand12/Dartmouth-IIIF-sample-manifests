@@ -3,7 +3,7 @@
   "id" : "https://elshand12.github.io/Dartmouth-IIIF-sample-manifests/manifests/dochu_hizakurige.json",
   "type" : "Manifest",
   "behavior" : [ "continuous" ],
-  "viewingDirection": "right-to-left",
+  "viewingDirection": "top-to-bottom",
   "label" : {
     "ja" : [ "Dōchū Hizakurige" ]
   },
