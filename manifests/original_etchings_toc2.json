@@ -211,7 +211,7 @@
     "id" : "https://collections.dartmouth.edu/teitexts/downloads/american-etchings/xml/AmericanEtchings.xml",
     "type" : "Dataset",
     "label" : {
-      "en" : [ "Download TEX-XML" ]
+      "en" : [ "Download TEI-XML" ]
     },
     "format" : "text/xml",
     "profile" : "https://tei-c.org/"
