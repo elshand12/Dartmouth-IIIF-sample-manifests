@@ -227,6 +227,8 @@
           "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_COVER.tif/full/full/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
+          "height": 3000,
+          "width": 593
         }
       ],
       "items": [
@@ -243,6 +245,8 @@
                 "id": "https://collections.dartmouth.edu/xcdas-api/iiif/brainard-diary/tiff_pyr/Stem189_1_6_COVER.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
+                "height": 3000,
+                "width": 593
               }
             }
           ]
